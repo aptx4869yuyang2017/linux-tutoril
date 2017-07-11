@@ -1,0 +1,22 @@
+# 4. Manual Pages
+
+* Making a Directory
+    * `mkdir [options] <Directory>`
+    *  -p 连同 parent dictionary 一同创建
+    * -v 显示创建过程
+
+* Removing a Directory
+    * `rmdir [options] <Directory>`
+* Creating a Blank File
+    * `touch [options] <filename>`
+* Copying a File or Directory
+    * `cp [options] <source> <destination>`
+    * -r option, which stands for recursive
+* Moving a File or Directory
+    * `mv [options] <source> <destination>`
+    * Renaming Files and Directories with `mv`
+* Removing a File (and non empty Directories)
+    * 
+* 
+
+
